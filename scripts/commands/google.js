@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.0",
     permission: 0,
     credits: "ryuko",
-    prefix: false,
+    prefix: true,
     description: "search results on google",
     category: "without prefix",
     usages: "google [text]",
